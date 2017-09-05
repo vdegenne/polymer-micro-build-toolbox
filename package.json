@@ -1,6 +1,6 @@
 {
   "name": "polymer-micro-build-toolbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a module mixing HtmlSplitter, getOptimizeStreams, and the polymer-build library as custom build helpers",
   "main": "lib/polymer-micro-build-toolbox.js",
   "scripts": {
