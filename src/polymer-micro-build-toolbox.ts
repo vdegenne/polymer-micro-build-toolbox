@@ -1,9 +1,9 @@
 export * from 'polymer-build';
+export * from './streams';
+export * from './optimize-streams';
 
 import mergeStream = require('merge-stream');
 import gulpFilter = require('gulp-filter');
-
-export * from './optimize-streams';
 
 exports.mergeStream = mergeStream;
 exports.gulpFilter = gulpFilter;
